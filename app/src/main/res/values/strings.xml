@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">DietClinic</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_rights_reserved">All Rights Reserved</string>
+    <string name="Home">Home</string>
+    <string name="Chat">Chat</string>
+    <string name="chat">Chat</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="progress">Progress</string>
+    <string name="dietplan">DietPlan</string>
+    <string name="diet_plan">Diet Plan</string>
+    <string name="intro1">Dietitian Mahnoor Obaid</string>
+    <string name="intro2">Clinical Nutritionist and Wellness Coach</string>
+    <string name="intro3">CEO Diet Clinic</string>
+    <string name="space" />
+    <string name="intro4">PhysioFit (Islamabad Diagnostic Centre)</string>
+    <string name="intro5">(Clinical Nutritionist and Wellness Coach)</string>
+    <string name="intro6">Contact Information:</string>
+    <string name="whatsappnum">+92-306-0863022</string>
+    <string name="facebook">Dietitianmahnoor</string>
+    <string name="human_diet_and_nutrition_planning">Human Diet and Nutrition Planning</string>
+    <string name="introb">Highly energetic and compassionate Nutritionist with an outstanding academic record. Motivated to assist and educate people towards healthy lifestyle while focusing on balanced diet and healthy activities.</string>
+    <string name="introb2">I’m Mahnoor Obaid, Clinical Nutritionist and Wellness Coach, I am a health and nutrition professional with three years of experience in my field. I have completed my qualification in Human Nutrition and Dietetics from Government College University Faisalabad with distinction. I have gained my working experience under the supervision of renowned nutritionists at National Hospital and Mian Trust Hospital.</string>
+    <string name="introb3">I’m providing consultancy to my clients at PhysioFit, IDC building Faisalabad from 11:00am – 03:00pm, Monday to Friday. I’m also providing online consultancy to my clients through social networking sites, I have a huge cliental with a proven track record of satisfied clients. I have developed a vast experience of client handling and mentoring, since this is an online consultancy platform, I have a considerable number of international clients across the Globe especially from Saudi Arabia, Middle East, USA and Canada.</string>
+    <string name="instagramlink">https://www.instagram.com/dietitianmahnoor/</string>
+    <string name="facebooklink">https://www.facebook.com/dietitianmahnoor</string>
+    <string name="whatsapplink"><![CDATA[https://api.whatsapp.com/send?phone=923060863022&app=facebook&entry_point=page_cta&fbclid=IwAR3HccqYxCDpI5-KHiMaNfGX-GE9P3RWghDewL4zgG0aqyExvT8zAaO__Fs]]></string>
+    <string name="name">Name:</string>
+    <string name="todo">TODO</string>
+    <string name="client_id_for_official_use_only">Client ID(For Official Use Only)</string>
+    <string name="plan_starting_date_for_official_use_only">Plan Starting Date(For Official Use Only)</string>
+    <string name="submit">Submit</string>
+    <string name="full_name">Full Name</string>
+    <string name="male">Male</string>
+    <string name="your_personal_aim_related_to_your_weight">Your Personal Aim Related to Your Weight</string>
+    <string name="when_you_sleep_at_night_hh_mm">When You Sleep at Night(HH:MM)</string>
+    <string name="food_choices_liking_disliking">Food Choices(Liking/Disliking)</string>
+    <string name="female">Female</string>
+    <string name="where_you_contacted_me_1st_time">Where You Contacted me 1st time?</string>
+    <string name="share_your_id_insta_fb_from_which_you_contacted">Share your ID(Insta/FB) from which you contacted</string>
+    <string name="how_much_amount_you_have_paid">How much amount you have paid?</string>
+    <string name="package_you_have_chosen">Package You have chosen</string>
+    <string name="your_current_weight">Your Current Weight</string>
+    <string name="your_city">Your City</string>
+    <string name="how_you_have_paid">How you have paid?</string>
+    <string name="mobile_no_you_will_be_using_for_whatsapp">Mobile No You will be using for Whatsapp</string>
+    <string name="who_referred_me_or_you_found_me_through_social_networking_sites">Who referred me or you found me through social networking sites?</string>
+    <string name="anything_else_you_want_to_add">Anything Else You Want to Add?</string>
+    <string name="hips_in_centimeter">Hips</string>
+    <string name="calves_in_centimeter">Calves</string>
+    <string name="select">Select</string>
+    <string name="gender">Gender</string>
+    <string name="your_height_in_inches">Your Height?</string>
+    <string name="your_profession">Your Profession</string>
+    <string name="when_you_get_up_in_the_morning_hh_mm">When You Get Up in the Morning?(HH:MM)</string>
+    <string name="medical_diagnose">Medical Diagnose</string>
+    <string name="current_medication">Current Medication</string>
+    <string name="food_allergies">Food Allergies</string>
+    <string name="physical_activity_routine_in_mins_walk_running">Physical Activity/Routine in Mins(Walk/Running)</string>
+    <string name="right_thigh_in_centimeter">Right Thigh</string>
+    <string name="left_thigh_in_centimeter">Left Thigh</string>
+    <string name="belly_button_in_centimeter">Belly Button</string>
+    <string name="your_answer">Your answer</string>
+    <string name="waist_above_belly_button_in_centimeter">Waist above Belly Button</string>
+    <string name="chest_in_centimeter">Chest</string>
+    <string name="instagram">Instagram</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="other">Other</string>
+    <string name="facebook1">Facebook</string>
+    <string name="jazzcash">JazzCash</string>
+    <string name="bank_account">Bank Account</string>
+    <string name="easypaisa">EasyPaisa</string>
+    <string name="_03060863022">03060863022</string>
+    <string name="_03047104889">03047104889</string>
+    <string name="_03422330581">03422330581</string>
+    <string name="_03240064220">03240064220</string>
+    <string name="social_networking_sites">Social Networking Sites</string>
+    <string name="_90_days_plan">90 Days Plan</string>
+    <string name="_120_days_plan">120 Days Plan</string>
+    <string name="ft">ft</string>
+    <string-array name="numbersft">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="numbersInches">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+    <string-array name="kgpound">
+        <item>Kgs</item>
+        <item>Pounds</item>
+    </string-array>
+    <string-array name="hoursmints">
+        <item>Hours</item>
+        <item>Minutes</item>
+    </string-array>
+    <string-array name="InchesCentimeter">
+        <item>Inches</item>
+        <item>Centimeter</item>
+    </string-array>
+    <string name="title_activity_signin">SigninActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="facebook_app_id">830747007828892</string>
+    <string name="fb_login_protocol_scheme">fb830747007828892</string>
+    <string name="countinue_with_google">Countinue With Google</string>
+
+
+</resources>

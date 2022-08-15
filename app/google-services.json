@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695164570857",
+    "firebase_url": "https://dietclinic-62aa4-default-rtdb.firebaseio.com",
+    "project_id": "dietclinic-62aa4",
+    "storage_bucket": "dietclinic-62aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695164570857:android:e19be18f5552b9434d3478",
+        "android_client_info": {
+          "package_name": "com.example.dietclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dietclinic",
+            "certificate_hash": "015e4e3f979d9e2a1c17f19faece2d60fafbf3b6"
+          }
+        },
+        {
+          "client_id": "695164570857-0tuic0p2s64gbarro2j7e5j2h9u6tqsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2kotwWjE1Sqp0EleYSgkvmQJTb2jtQCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695164570857-0tuic0p2s64gbarro2j7e5j2h9u6tqsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Social"
+        android:title="@string/social_networking_sites"
+        >
+
+        <menu>
+
+            <item
+                android:id="@+id/facebook"
+                android:icon="@drawable/facebook"
+                android:title="@string/facebook1"/>
+            <item
+                android:id="@+id/instagram"
+                android:icon="@drawable/instagram"
+                android:title="@string/instagram" />
+            <item
+                android:id="@+id/Whatsapp"
+                android:checkable="false"
+                android:icon="@drawable/whatsapp"
+                android:title="@string/whatsapp" />
+
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/Reference"
+        android:title="Reference"
+        android:onClick="Reference">
+
+    </item>
+
+</menu>

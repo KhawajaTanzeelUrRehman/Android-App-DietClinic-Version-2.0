@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/days15"
+        android:title="15 Days Plan" />
+    <item
+        android:id="@+id/days30"
+        android:title="30 Days Plan" />
+    <item
+        android:id="@+id/days45"
+        android:title="45 Days Plan" />
+    <item
+        android:id="@+id/days60"
+        android:title="60 Days Plan" />
+    <item
+        android:id="@+id/days90"
+        android:title="@string/_90_days_plan" />
+    <item
+        android:id="@+id/days120"
+        android:title="@string/_120_days_plan" />
+
+</menu>

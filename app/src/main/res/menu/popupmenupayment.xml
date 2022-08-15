@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Jazzcash"
+        android:title="@string/jazzcash">
+        <menu>
+
+            <item
+                android:id="@+id/JC_03060863022"
+                android:icon="@drawable/jazzcash"
+                android:title="@string/_03060863022" />
+
+            <item
+                android:id="@+id/JC_03047104889"
+                android:icon="@drawable/jazzcash"
+                android:title="@string/_03047104889" />
+
+            <item
+                android:id="@+id/JC_03422330581"
+                android:icon="@drawable/jazzcash"
+                android:title="@string/_03422330581" />
+
+            <item
+                android:id="@+id/JC_03240064220"
+                android:icon="@drawable/jazzcash"
+                android:title="@string/_03240064220" />
+
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/EasyPaisa"
+        android:title="@string/easypaisa">
+        <menu>
+            <item
+                android:id="@+id/EP_03130822222"
+                android:icon="@drawable/easypaisa"
+                android:title="03130822222" />
+
+            <item
+                android:id="@+id/EP_03047104889"
+                android:icon="@drawable/easypaisa"
+                android:title="03047104889" />
+
+            <item
+                android:id="@+id/EP_03422330581"
+                android:icon="@drawable/easypaisa"
+                android:title="03422330581" />
+
+            <item
+                android:id="@+id/EP_03328002182"
+                android:icon="@drawable/easypaisa"
+                android:title="03328002182" />
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/BankAccount"
+        android:title="@string/bank_account">
+        <menu>
+            <item
+                android:id="@+id/MBL_Mahnoor_14050103758181"
+                android:icon="@drawable/meezan"
+                android:title="14050103758181_Mahnoor"
+                android:visible="true"
+                />
+
+            <item
+                android:id="@+id/MBL_Tanzeel_14050103569717"
+                android:icon="@drawable/meezan"
+                android:title="14050103569717_Tanzeel"
+
+                />
+
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/other"
+        android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/Western_Union"
+                android:icon="@drawable/western"
+                android:title="Western_Union" />
+
+            <item
+                android:id="@+id/Ria"
+                android:icon="@drawable/ria"
+                android:title="Ria"/>
+
+
+        </menu>
+    </item>
+</menu>
